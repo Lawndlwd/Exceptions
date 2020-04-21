@@ -1,5 +1,5 @@
 
-class Car extends Vehicle{
+class Car{
     private $hasParkBrake;
 
     //public function __construct($color)
